@@ -1,3 +1,3 @@
-# FTW-Day-5
+# FTW-Day-6
 
-In day 5 we learned about Regression. The exercise was to predict House Pricing.
+In day 6 we learned about Classification. The exercise was to predict Income.
